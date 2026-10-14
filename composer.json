@@ -1,0 +1,21 @@
+{
+    "name": "gosimple/rs-fiscal",
+    "description": "Serbian fiscal helpers for PHP: PIB (tax ID) validation and NBS IPS QR code generation. A GoSimple product.",
+    "type": "library",
+    "keywords": ["serbia", "pib", "ips-qr", "nbs", "fiscal", "fiscalization", "validation", "gosimple", "tezga"],
+    "homepage": "https://github.com/GoSimple-agency/rs-fiscal",
+    "license": "proprietary",
+    "authors": [
+        { "name": "GoSimple", "homepage": "https://gosimple.space" }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": { "GoSimple\\RsFiscal\\": "src/" }
+    },
+    "support": {
+        "issues": "https://github.com/GoSimple-agency/rs-fiscal/issues",
+        "source": "https://github.com/GoSimple-agency/rs-fiscal"
+    }
+}

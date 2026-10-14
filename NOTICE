@@ -1,0 +1,11 @@
+rs-fiscal — Serbian fiscal helpers for PHP
+
+A product of GoSimple.
+Websites: https://gosimple.space · https://tezgafiskal.com
+
+Copyright (c) GoSimple. All rights reserved.
+"GoSimple" and "Tezga" are brands of GoSimple.
+
+PIB validation follows ISO 7064 MOD 11,10. IPS QR generation follows the National Bank of
+Serbia IPS QR specification (https://ips.nbs.rs). Those standards are public and are not
+covered by this copyright.
